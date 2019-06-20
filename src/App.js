@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import Form from './Form'
+import HomePage from './components/HomePage'
+import Form from './components/Form'
 import './App.css';
 
 function App() {
   return (
-    <Form/>
+    //<Form/>
+    //call webpage here
+    <HomePage/>
   );
 }
 

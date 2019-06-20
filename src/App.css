@@ -31,3 +31,313 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar {
+  /* border: 1px solid black; */
+  height: 60px;
+  width: 100%;
+  background-image: url("./assets/BGpinkTop.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.whiteButton{
+  margin-top: 3%;
+  width: 140px;
+  height: 45px;
+  text-align: center;
+}
+
+.h1{
+  color: #FFFFFF;
+  font: 'Fredoka One';
+}
+
+.hr {
+      background-color: white;
+      padding: 0px;
+      margin: 0px;
+  }
+
+.hr2 {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 40px;
+}
+
+.top {
+  /* border: 1px solid black; */
+  height: 660px;
+  width: 100%;
+  background-image: url("./assets/BGpinkTop.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.topText{
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+.Row {
+  height: 660px;
+}
+
+.Col {
+   height: 660px;
+}
+
+.topRight {
+  /* margin-top: 5%; */
+  margin-left: -100px;
+  /* border: 1px solid black; */
+  height: 620px;
+  width: 100%;
+  background-image: url("./assets/KV-banner.png");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: left;
+}
+
+.textAreaSmall{
+  /* border: 1px solid black; */
+  height: 120px;
+  width: 100%;
+  margin-bottom: 3%;
+  /* background-color: white; */
+}
+
+.textAreaBig1{
+  /* border: 1px solid black; */
+  margin-bottom: -10%;
+  height: 150px;
+  width: 100%;
+  background-image: url("./assets/ic_Opportunities.png");
+  background-repeat: no-repeat;
+  background-size: 25%;
+  background-position: top;
+}
+
+.textAreaBig2{
+  /* border: 1px solid black; */
+  margin-bottom: -10%;
+  height: 150px;
+  width: 100%;
+  background-image: url("./assets/IC_SalesProcess.png");
+  background-repeat: no-repeat;
+  background-size: 25%;
+  background-position: top;
+}
+
+.textAreaBig3{
+  /* border: 1px solid black; */
+  margin-bottom: -10%;
+  height: 150px;
+  width: 100%;
+  background-image: url("./assets/IC_Streaming.png");
+  background-repeat: no-repeat;
+  background-size: 25%;
+  background-position: top;
+} 
+
+
+.middleLeft {
+  /* border: 1px solid black; */
+  height:600px;
+  width: 100%;
+  background-image: url("./assets/KV_OurSolutions.png");
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: center;
+}
+
+.solutionRight{
+  /* border: 1px solid black; */
+  margin-top: 25px;
+  height: 140px;
+  width: 98.1%;
+  margin-bottom: 3%;
+} 
+
+.solutionMargin{
+  margin-top: 2.5%;
+  margin-left: 15%;
+}
+
+.solutionMargin2{
+  margin-top: 0%;
+  margin-left: 15%;
+}
+
+.solutionButton{
+  margin-left: 40%;
+  margin-bottom: 4%;
+  color: rgb(255, 10, 173);
+  background: transparent;
+}
+
+.solutionRight1{
+  /* border: 1px solid black; */
+  height: 150px;
+  width: 98.1%;
+  background-image: url("./assets/IC_Automated.png");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: left;
+  background-position-y: 0px;
+} 
+
+.solutionRight2{
+  /* border: 1px solid black; */
+  margin-top: -1%;
+  height: 150px;
+  width: 98.1%;
+  background-image: url("./assets/IC_Conversational.png");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: left;
+  background-position-y: 1px;
+} 
+
+
+.solutionRight3{
+  /* border: 1px solid black; */
+  margin-top: -5%;
+  height: 150px;
+  width: 98.1%;
+  background-image: url("./assets/IC_Professional.png");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: left;
+  background-position-y: 0px;
+} 
+
+.pinkBody{
+  /* border: 1px solid black; */
+  height: 320px;
+  width: 100%;
+  background-image: url("./assets/BGPinkBody.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.startBody{
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.stepsMargin{
+  margin-left: 60%;
+}
+
+.stepsMargin2{
+  margin-left: 40%
+}
+
+.stepsMargin3{
+  margin-left: 35%
+}
+
+.step1{
+  /* border: 1px solid black; */
+  height: 200px;
+  width: 100%;
+  background-image: url("./assets/IC_num1.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: left;
+  background-position-x: 47%;
+  background-position-y: 0px;
+}
+
+.step2{
+  /* border: 1px solid black; */
+  height: 200px;
+  width: 100%;
+  background-image: url("./assets/IC_num2.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: left;
+  background-position-x: 20%;
+  background-position-y: 0px;
+}
+
+.step3{
+  /* border: 1px solid black; */
+  height: 200px;
+  width: 100%;
+  background-image: url("./assets/IC_num3.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: left;
+  background-position-x: 15%;
+  background-position-y: 0px;
+}
+
+.freetouse{
+  /* border: 1px solid black; */
+  height: 250px;
+  width: 100%;
+  align-items: center;
+  background-image: url("./assets/BG_freetouse.png");
+  background-repeat: no-repeat;
+  background-size: 55%;
+  background-position: center;
+}
+
+.freeText{
+  margin-left: 55%;
+  margin-top: 11%;
+}
+
+.freeButton{
+  margin-left: 10%;
+  margin-top: 14%;
+}
+
+.freeButton2{
+  margin-left: 5%;
+  margin-top: 14%;
+  outline-color: #EB3390;
+}
+
+.bottomNavbar{
+  /* border: 1px solid black; */
+  height: 100px;
+  width: 100%;
+  background-image: url("./assets/LOGO_footer.png");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position-y: 0%;
+  background-position-x: 260px;
+}
+
+.copyright {
+  /* border: 1px solid black; */
+  height: 40px;
+  width: 100%;
+  align-content: center;
+  background-image: url("./assets/BGpinkTop.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.copyrighttext{
+  padding-top: 10px;
+  color: #FFFFFF;
+  font: 'Ariel Narrow';
+  font-size: 10pt;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.navbar-brand>img {
+  padding: 7px 14px;
+} 
+
+
+

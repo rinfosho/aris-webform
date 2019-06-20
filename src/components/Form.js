@@ -2,10 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
-import logo from './logo.png';
+import logo from '../assets/logo.png';
 import Grid from '@material-ui/core/Grid';
-import Brochure1 from './Brochure_ARIS-3-cr-01.png';
-import Brochure2 from './Brochure_ARIS-3-cr-02.png';
+import Brochure1 from '../assets/Brochure_ARIS-3-cr-01.png';
+import Brochure2 from '../assets/Brochure_ARIS-3-cr-02.png';
 import { Button } from '@material-ui/core';
 import { renderComponent } from 'recompose';
 
