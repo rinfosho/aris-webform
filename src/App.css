@@ -43,15 +43,21 @@
 }
 
 .whiteButton{
+  color: #FFFFFF;
   margin-top: 3%;
-  width: 140px;
+  width: 180px;
   height: 45px;
   text-align: center;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid #EB3390;
+  border-radius: 40px;
+  background: transparent;
 }
 
 .h1{
   color: #FFFFFF;
-  font: 'Fredoka One';
+  font-family: 'Fredoka One';
 }
 
 .hr {
@@ -65,6 +71,14 @@
     padding: 0px;
     margin: 0px;
     margin-bottom: 40px;
+}
+
+.topspace{
+  padding: 2%;
+  /* height: 50%; */
+  width: 100%;
+  background-image: url("./assets/BGpinkTop.png");
+  background-repeat: no-repeat;
 }
 
 .top {
@@ -97,7 +111,7 @@
   width: 100%;
   background-image: url("./assets/KV-banner.png");
   background-repeat: no-repeat;
-  background-size: 80%;
+  background-size: 90%;
   background-position: left;
 }
 
@@ -111,34 +125,34 @@
 
 .textAreaBig1{
   /* border: 1px solid black; */
-  margin-bottom: -10%;
+  margin-bottom: -15%;
   height: 150px;
   width: 100%;
   background-image: url("./assets/ic_Opportunities.png");
   background-repeat: no-repeat;
-  background-size: 25%;
+  background-size: 30%;
   background-position: top;
 }
 
 .textAreaBig2{
   /* border: 1px solid black; */
-  margin-bottom: -10%;
+  margin-bottom: -15%;
   height: 150px;
   width: 100%;
   background-image: url("./assets/IC_SalesProcess.png");
   background-repeat: no-repeat;
-  background-size: 25%;
+  background-size: 34%;
   background-position: top;
 }
 
 .textAreaBig3{
   /* border: 1px solid black; */
-  margin-bottom: -10%;
+  margin-bottom: -15%;
   height: 150px;
   width: 100%;
   background-image: url("./assets/IC_Streaming.png");
   background-repeat: no-repeat;
-  background-size: 25%;
+  background-size: 34%;
   background-position: top;
 } 
 
@@ -298,7 +312,7 @@
 }
 
 .freeButton2{
-  margin-left: 5%;
+  margin-left: 2.5%;
   margin-top: 14%;
   outline-color: #EB3390;
 }
