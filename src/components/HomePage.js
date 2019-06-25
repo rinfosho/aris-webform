@@ -111,7 +111,10 @@ class HomePage extends Component {
                                 <div className='solutionMargin'>
                                     <h1 style={{ fontSize: '23pt', color: '#202020', font: 'Arial' }}>Automated</h1>
                                     <h6 style={{ fontSize: '11pt', color: '#8c8c8c', font: 'Arial' }}>
+                                        
+                                        <ul>
                                         <li> AI chat customer service </li>
+                                        </ul>
                                     </h6>
                                 </div>
                             </div>
@@ -121,10 +124,12 @@ class HomePage extends Component {
                                 <div className='solutionMargin2'>
                                     <h1 style={{ fontSize: '23pt', color: '#202020', font: 'Arial' }}>Conversational sales automation</h1>
                                     <h6 style={{ fontSize: '11pt', color: '#8c8c8c', font: 'Arial', lineHeight: '25px' }}>
+                                        <ul>
                                         <li> From product selection to delivery detail.
                                             Fully automated. </li>
                                         <li> Unique cutomer experience for both new and returning
                                             customers </li>
+                                        </ul>
                                     </h6>
                                 </div>
                             </div>
@@ -134,9 +139,11 @@ class HomePage extends Component {
                                 <div className='solutionMargin2'>
                                     <h1 style={{ fontSize: '23pt', color: '#202020', font: 'Arial' }}>Professional LIVE session</h1>
                                     <h6 style={{ fontSize: '11pt', color: '#8c8c8c', font: 'Arial', lineHeight: '25px' }}>
+                                        <ul>
                                         <li> Beautiful display </li>
                                         <li> Built-in sound effects </li>
                                         <li> Embedded sales hack tools </li>
+                                        </ul>
                                     </h6>
                                 </div>
                             </div>
